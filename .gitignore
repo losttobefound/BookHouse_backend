@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore specific directories
+node_modules/
+dist/
+
+# Ignore all files in a specific folder
+path/to/folder/*
+
