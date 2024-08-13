@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1001",
+    "name": "Ivanna",
+    "email": "ivanna@gmail.com",
+    "role": "student",
+    "password": "1457789",
+    "date": "11.01.12"
+  },
+  {
+    "id": "1002",
+    "name": "Doreen",
+    "email": "doreen@gmail.com",
+    "role": "student",
+    "password": "239473",
+    "date": "12.12.12"
+  },
+  {
+    "id": "1003",
+    "name": "Lisa",
+    "email": "lisa@gmail.com",
+    "role": "student",
+    "password": "35733",
+    "date": "13.02.24"
+  },
+  {
+    "id": "1004",
+    "name": "Sarah",
+    "email": "sarah@gmail.com",
+    "role": "student",
+    "password": "4345767",
+    "date": "11.06.24"
+  },
+  {
+    "id": "1005",
+    "name": "Deee",
+    "email": "deee@gmail.com",
+    "role": "student",
+    "password": "22222",
+    "date": "31.06.24"
+  },
+  {
+    "id": "1006",
+    "name": "may",
+    "email": "may@gmail.com",
+    "role": "student",
+    "password": "34355",
+    "date": "31.06.24"
+  },
+  {
+    "id": "1007",
+    "name": "mara",
+    "email": "mara@gmail.com",
+    "role": "student",
+    "password": "88866",
+    "date": "31.02.24"
+  }
+]

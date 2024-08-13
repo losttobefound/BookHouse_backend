@@ -1,0 +1,30 @@
+[
+  {
+    "id": "L001",
+    "userId": "1001",
+    "startDate": "2023-06-01",
+    "endDate": "2023-06-15",
+    "borrowedEquipmentIDs": "A001"
+  },
+  {
+    "id": "L002",
+    "userId": "1002",
+    "startDate": "2024-06-05",
+    "endDate": "2024-06-20",
+    "borrowedEquipmentIDs": "A002"
+  },
+  {
+    "id": "L003",
+    "userId": "1003",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-25",
+    "borrowedEquipmentIDs": "A003"
+  },
+  {
+    "id": "L004",
+    "userId": "1004",
+    "startDate": "2024-06-12",
+    "endDate": "2024-06-30",
+    "borrowedEquipmentIDs": "A004"
+  }
+]

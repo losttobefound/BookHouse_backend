@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "equipment_number": "A001",
+    "title": "Book: Introduction to Programming",
+    "description": "A comprehensive book introducing programming with many examples and exercises.",
+    "quantity": 5,
+    "userID": "1001"
+  },
+  {
+    "id": "2",
+    "equipment_number": "A002",
+    "title": "Laptop: Dell XPS 13",
+    "description": "A powerful laptop for developers and designers with 16GB RAM and 512GB SSD.",
+    "quantity": 2,
+    "userID": "1002"
+  },
+  {
+    "id": "3",
+    "equipment_number": "A003",
+    "title": "Projector: Epson EB-S41",
+    "description": "A portable projector with high brightness and excellent image quality, ideal for presentations.",
+    "quantity": 3,
+    "userID": "1003"
+  },
+  {
+    "id": "4",
+    "equipment_number": "A004",
+    "title": "Digital Camera: Canon EOS 200D",
+    "description": "A high-quality digital camera for professional photography with 24.1 megapixels and full HD video.",
+    "quantity": 4,
+    "userID": "1004"
+  },
+  {
+    "id": "5",
+    "equipment_number": "A005",
+    "title": "3D Printer: Bambu Lab X1 Carbon",
+    "description": "A high-performance 3D printer designed for professional use with advanced features like automatic bed leveling and multi-material printing",
+    "quantity": 1,
+    "userID": "1005"
+  },
+  {
+    "id": "6",
+    "equipment_number": "A006",
+    "title": "Book: Introduction to Algorithms",
+    "description": "A comprehensive textbook on algorithms, covering a broad range of topics in depth, suitable for both undergraduate and graduate courses.",
+    "quantity": 10,
+    "userID": "1006"
+  }
+]
